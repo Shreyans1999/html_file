@@ -1,1 +1,1 @@
-echo "hello world dssfs-ewr3"
+echo "hello world"
