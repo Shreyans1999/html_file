@@ -1,8 +1,12 @@
+<!DOCTYPE html>
 <html>
-<head>
-  <title>google</title>
-</head>
-  <body
-        <p>hello world</p>
-        </body>
+<body>
+
+<h1>My first PHP page</h1>
+
+<?php
+echo "Hello World!";
+?>
+
+</body>
 </html>
